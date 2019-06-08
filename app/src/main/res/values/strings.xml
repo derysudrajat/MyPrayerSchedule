@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MyPrayerSchedule</string>
+    <string name="loadData">LOAD DATA</string>
+    <string name="JadwalSholat">Prayer Schedule</string>
+    <string name="isya">Isya</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="ashar">Ashar</string>
+    <string name="zuhur">Zuhur</string>
+    <string name="subuh">Subuh</string>
+    <string name="kota">Kota</string>
+    <string name="tanggal_sekarang">Tanggal Sekarang</string>
 </resources>
